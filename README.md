@@ -1,1 +1,1 @@
-# Stride-Smart-Demo
+# m100-projects-the-walkie-talkie
